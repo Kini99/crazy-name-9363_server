@@ -1,5 +1,5 @@
 {
-  "name": "crazy-name-9363_server",
+  "name": "Evaluation_RM101_HCJ2-Server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kini99/crazy-name-9363_server.git"
+    "url": "git+https://github.com/Kini99/Evaluation_RM101_HCJ2-Server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kini99/crazy-name-9363_server/issues"
+    "url": "https://github.com/Kini99/Evaluation_RM101_HCJ2-Server/issues"
   },
-  "homepage": "https://github.com/Kini99/crazy-name-9363_server#readme",
+  "homepage": "https://github.com/Kini99/Evaluation_RM101_HCJ2-Server#readme",
   "dependencies": {
     "json-server": "^0.17.3"
   }
